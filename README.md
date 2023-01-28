@@ -1,4 +1,4 @@
-## Desenvolvedor Front-end, Dono em uma das maiores empresas de serviços de programação, líder de vendas do mês de Maio
+## Desenvolvedor Full Stack, Dono em uma das maiores empresas de serviços de programação!
 
 <div align="center">
   <a href="https://github.com/soutoux">
