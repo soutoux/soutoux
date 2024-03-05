@@ -1,4 +1,4 @@
-## Desenvolvedor Full Stack, Dono em uma das maiores empresas de serviços de programação!
+## Hey there! 👋 Fullstack dev wanderer, occasionally dropping nuggets of code here. Just in it for the fun! 🚀 #CodeForFun"
 
 <div align="center">
   <a href="https://github.com/soutoux">
