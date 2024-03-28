@@ -1,4 +1,4 @@
-## Hey there! 👋 Fullstack dev wanderer, occasionally dropping nuggets of code here. Just in it for the fun! 🚀 #CodeForFun"
+## Hey there! 👋 Front-End dev wanderer, occasionally dropping nuggets of code here. Just in it for the fun! 🚀 #CodeForFun"
 
 <div align="center">
   <a href="https://github.com/soutoux">
